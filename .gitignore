@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 
 # Database files
-./database/*
+dataset/*
+src/resource/*
+tests/resource/*
+*.db
